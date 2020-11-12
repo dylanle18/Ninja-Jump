@@ -1,0 +1,46 @@
+u:\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe.config
+u:\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe
+u:\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.pdb
+u:\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+u:\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.Form1.resources
+u:\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.Properties.Resources.resources
+u:\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+u:\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.exe
+u:\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.pdb
+C:\Users\dylan\Desktop\GAME\Game\bin\Debug\Game.exe.config
+C:\Users\dylan\Desktop\GAME\Game\bin\Debug\Game.exe
+C:\Users\dylan\Desktop\GAME\Game\bin\Debug\Game.pdb
+C:\Users\dylan\Desktop\GAME\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\dylan\Desktop\GAME\Game\obj\Debug\Game.Form1.resources
+C:\Users\dylan\Desktop\GAME\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\dylan\Desktop\GAME\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\dylan\Desktop\GAME\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Desktop\GAME\Game\obj\Debug\Game.exe
+C:\Users\dylan\Desktop\GAME\Game\obj\Debug\Game.pdb
+C:\Users\s201004198\Desktop\GAME\Game\bin\Debug\Game.exe.config
+C:\Users\s201004198\Desktop\GAME\Game\obj\Debug\Game.exe
+C:\Users\s201004198\Desktop\GAME\Game\obj\Debug\Game.pdb
+C:\Users\s201004198\Desktop\GAME\Game\bin\Debug\Game.exe
+C:\Users\s201004198\Desktop\GAME\Game\bin\Debug\Game.pdb
+C:\Users\s201004198\Desktop\GAME\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\s201004198\Desktop\GAME\Game\obj\Debug\Game.Form1.resources
+C:\Users\s201004198\Desktop\GAME\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\s201004198\Desktop\GAME\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+E:\GAME\Game\bin\Debug\Game.exe.config
+E:\GAME\Game\obj\Debug\Game.exe
+E:\GAME\Game\obj\Debug\Game.pdb
+E:\GAME\Game\bin\Debug\Game.exe
+E:\GAME\Game\bin\Debug\Game.pdb
+E:\GAME\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+E:\GAME\Game\obj\Debug\Game.Form1.resources
+E:\GAME\Game\obj\Debug\Game.Properties.Resources.resources
+E:\GAME\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+D:\Grade 11 Final Game\Game\bin\Debug\Game.exe.config
+D:\Grade 11 Final Game\Game\bin\Debug\Game.exe
+D:\Grade 11 Final Game\Game\bin\Debug\Game.pdb
+D:\Grade 11 Final Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Grade 11 Final Game\Game\obj\Debug\Game.Form1.resources
+D:\Grade 11 Final Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Grade 11 Final Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+D:\Grade 11 Final Game\Game\obj\Debug\Game.exe
+D:\Grade 11 Final Game\Game\obj\Debug\Game.pdb
